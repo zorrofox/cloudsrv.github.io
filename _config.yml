@@ -16,7 +16,7 @@
 title: 黄德滨 - Greg Huang
 email: debin.huang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A visionary leader with the architectural skills, experience and insight to elevate any application, computing platform infrastructure or data operation to the cloud.
+  <a href="http://www.miitbeian.gov.cn/">京ICP备19021454号</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://huanghaoyu.net" # the base hostname & protocol for your site, e.g. http://example.com
