@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A visionary leader with the architectural skills, experience and insight to elevate any application, computing platform infrastructure or data operation to the cloud.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cloudsrv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://huanghaoyu.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  zorrofox
 
